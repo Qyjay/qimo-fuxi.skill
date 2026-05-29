@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Exam Note"
+  short_description: "从课程 PPT/PDF 生成 Obsidian 期末复习笔记"
+  default_prompt: "Use $course-exam-note to turn this folder's PPTX and PDF course materials into a complete Obsidian exam-study note."
